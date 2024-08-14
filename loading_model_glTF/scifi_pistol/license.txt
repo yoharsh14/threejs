@@ -1,0 +1,11 @@
+Model Information:
+* title:	SciFi Pistol
+* source:	https://sketchfab.com/3d-models/scifi-pistol-ad563e0f84734e9890a69869e39ec4bc
+* author:	DJMaesen (https://sketchfab.com/bumstrum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SciFi Pistol" (https://sketchfab.com/3d-models/scifi-pistol-ad563e0f84734e9890a69869e39ec4bc) by DJMaesen (https://sketchfab.com/bumstrum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
